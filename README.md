@@ -1,5 +1,4 @@
-- 👋 I'm Technical Editor and Patroller in MoegirlPedia. You can call me 和久井まゆ.
+- 👋 Hi, I'm SplendidNova.
 - 👀 I'm interested in Visual Novel, Music Game and Triple-A/Independent Game.
 - 💬 I can communicate in Simplified Chinese, Japanese and English.
 - 🌱 I'm currently learning HTML, CSS and JavaScript.
-- ✏️ My personal page: [和久井まゆ](https://zh.moegirl.org.cn/_?curid=572726) (Simplified Chinese).
