@@ -1,4 +1,4 @@
 - 👋 Hi, I'm SplendidNova.
-- 👀 I'm interested in Visual Novel, Music Game and Triple-A/Independent Game.
-- 💬 I can communicate in Simplified Chinese, Japanese and English.
-- 🌱 I'm currently learning HTML, CSS and JavaScript.
+- 👀 interested in Visual Novel, Music Game and Independent Game.
+- 💬 Simplified Chinese / Japanese / English is OK.
+- 🌱 currently learning HTML, CSS and JavaScript.
