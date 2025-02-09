@@ -23,6 +23,6 @@
 ![ipadpro2024](https://img.shields.io/badge/iPad_Pro_2024-000?logo=apple&logoColor=fff)
 ![ipados17.6](https://img.shields.io/badge/17.6-000000?logo=ios&logoColor=white)
 
-![xiaomi13](https://img.shields.io/badge/xiaomi_13-1e1e2a?logo=xiaomi&logoColor=white)
-![hyperos](https://img.shields.io/badge/hyper_os_2.0.100.0-1e1e2a?logo=hyper&logoColor=white)
+![xiaomi13](https://img.shields.io/badge/Xiaomi_13-1e1e2a?logo=xiaomi&logoColor=white)
+![hyperos](https://img.shields.io/badge/HyperOS_2.0.100.0-1e1e2a?logo=hyper&logoColor=white)
 
