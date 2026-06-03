@@ -12,11 +12,11 @@
 
 ### Laptop
 ![MacBook Air M4](https://img.shields.io/badge/MacBook_Air_M4-e8e8e8?logo=apple&logoColor=000)
-![ios26.3.1](https://img.shields.io/badge/26.3.1-000000?logo=ios&logoColor=white)
+![ios26.3.1](https://img.shields.io/badge/26.5.1-000000?logo=ios&logoColor=white)
 
 ### Mobile
 ![iphone15promax](https://img.shields.io/badge/iPhone_15_Pro_Max-da8cbe?logo=apple&logoColor=white)
-![ios26.3](https://img.shields.io/badge/26.3-000000?logo=ios&logoColor=white)
+![ios26.3](https://img.shields.io/badge/26.5-000000?logo=ios&logoColor=white)
 
 ![ipadpro2024](https://img.shields.io/badge/iPad_Pro_M4-000?logo=apple&logoColor=fff)
 ![ipados17.6.1](https://img.shields.io/badge/17.6.1-000000?logo=ios&logoColor=white)
